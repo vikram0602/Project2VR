@@ -122,6 +122,7 @@
      <None Include="Assets\Medieval Environment\Standard Assets\Image Effects (Pro Only)\_Sources\Shaders\_Antialiasing\FXAA2.shader" />
      <None Include="Assets\NassacGamesShieldsPack\Standard Assets\shader\DifBumpSpecTransp.shader" />
      <None Include="Assets\Medieval Environment\Standard Assets\Image Effects (Pro Only)\_Sources\Shaders\_BloomAndFlares\LensFlareCreate.shader" />
+     <None Include="Assets\Simple Particle Ribbon\readme_Simple_Particle_Ribbon.txt" />
      <None Include="Assets\Medieval Environment\Shaders\Desaturate\DesaturateEffect.shader" />
      <None Include="Assets\Medieval Environment\Standard Assets\Image Effects (Pro Only)\_Sources\Shaders\EdgeDetectNormals.shader" />
      <None Include="Assets\Medieval Environment\Standard Assets\Image Effects (Pro Only)\_Sources\Shaders\PrepareSunShaftsBlur.shader" />
