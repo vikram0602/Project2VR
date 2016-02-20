@@ -3,7 +3,12 @@ guid: 53ac4eb99e1433246b5861f491e67946
 ModelImporter:
   serializedVersion: 19
   fileIDToRecycleName:
+    100000: //RootNode
+    400000: //RootNode
+    2300000: //RootNode
+    3300000: //RootNode
     4300000: kosz_wiklinowy
+    11100000: //RootNode
   materials:
     importMaterials: 0
     materialName: 0
