@@ -45,6 +45,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\ExecutionController.cs" />
      <Compile Include="Assets\Medieval Environment\Shaders\Desaturate\DesaturateEffect.cs" />
      <Compile Include="Assets\Medieval Environment\Shaders\TerrainRand.cs" />
      <Compile Include="Assets\Medieval Environment\Standard Assets\Character Controllers\Sources\Scripts\MouseLook.cs" />
