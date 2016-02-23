@@ -96,6 +96,7 @@
      <Compile Include="Assets\UGUIMiniMap\Example\Scripts\bl_MMExampleManager.cs" />
      <Compile Include="Assets\UGUIMiniMap\Example\Scripts\bl_RandomBot.cs" />
      <Compile Include="Assets\triggerAnim.cs" />
+     <Compile Include="Assets\triggerwelcome.cs" />
      <None Include="Assets\Medieval Environment\Standard Assets\Image Effects (Pro Only)\_Sources\Shaders\_BloomAndFlares\BlendOneOne.shader" />
      <None Include="Assets\Medieval Environment\Standard Assets\Image Effects (Pro Only)\_Sources\Shaders\NoiseEffectShaderRGB.shader" />
      <None Include="Assets\Medieval Environment\Standard Assets\Image Effects (Pro Only)\_Sources\Shaders\_DepthOfField\SeparableWeightedBlurDof34.shader" />
