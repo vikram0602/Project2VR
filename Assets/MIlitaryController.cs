@@ -8,6 +8,9 @@ public class MIlitaryController : MonoBehaviour {
 	public GameObject Myself;
 	public GameObject Myself2;
 	public GameObject Myself3;
+	public GameObject obj1;
+	public GameObject obj2;
+
 	// Use this for initialization
 	void Start () {
 	
@@ -21,5 +24,8 @@ public class MIlitaryController : MonoBehaviour {
 		Myself2.SetActive(false);
 		Myself3.SetActive(false);
 		Myself.SetActive(false);
+		//obj1.GetComponent<Animator>().enabled=false;
+		obj1.GetComponent<Animator>().enabled=true;
+		obj2.GetComponent<Animator>().enabled=true;
     }
 }

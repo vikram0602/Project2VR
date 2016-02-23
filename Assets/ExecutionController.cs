@@ -19,5 +19,6 @@ public class ExecutionController : MonoBehaviour {
 		Myself.SetActive(false);
 		//triggerAnim.triggerAnimation ();
 		joan.GetComponent<Animator>().enabled=true;
+
     }
 }
