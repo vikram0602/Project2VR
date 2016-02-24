@@ -20,6 +20,7 @@ public class MIlitaryController : MonoBehaviour {
         
 		audio.clip = clip;
         audio.Play();
+		obj1.GetComponent<AudioSource> ().enabled = true;
 		
 		Myself2.SetActive(false);
 		Myself3.SetActive(false);
